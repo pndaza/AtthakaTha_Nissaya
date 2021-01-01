@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atthakatha Nissaya</string>
+    <string name="app_name_mm">အဋ္ဌကထာနိဿယ</string>
+    <string name="choice_nsy">ကြည့်လိုသော နိဿယမူကို ရွေးပါ</string>
+    <string name="empty_nsy">ယခုစာမျက်နှာအတွက် နိဿယ မရှိပါ။</string>
+    <string name="action_about">About</string>
+    <string name="info">လိုအပ်သောအချက်အလက်များကို စိန်ရတနာမှ ထုတ်ဝေသော အဋ္ဌကထာနိဿယ(IOS App)မှ ရယူထားပါသည်။\n\n
+        ပြသထားသော အဋ္ဌကထာစာရင်းတွင် ကွင်းအတွင်းရှိ စာသား ( ဝိ၊ဋ္ဌ၊၁ စသည်) တို့ကား ဆဋ္ဌမူကျမ်းညွှန်းသင်္ကေတဖြစ်ပါသည်။</string>
+</resources>
